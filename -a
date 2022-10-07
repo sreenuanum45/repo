@@ -1,0 +1,100 @@
+[33mcommit a966c53bfe6e597868e82c42cea4dc58f6d1e7a4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: sreenu <areenuanumandla@gmail.com>
+Date:   Mon Oct 3 09:31:22 2022 +0000
+
+    delete
+
+[33mcommit 49a1568b12ea58073d87e35f050170cad9d44d08[m
+Author: sreenu <areenuanumandla@gmail.com>
+Date:   Mon Oct 3 09:12:23 2022 +0000
+
+    Revert "navveen" " this is my igone file"
+    
+    This reverts commit 73c500988142ab20618b879a707b24604d4c5ed9.
+
+[33mcommit 73c500988142ab20618b879a707b24604d4c5ed9[m
+Author: sreenu <areenuanumandla@gmail.com>
+Date:   Mon Oct 3 09:08:39 2022 +0000
+
+    navveen
+
+[33mcommit 6c438e0341ea0f017f77bde07c027a56f09cd0d6[m
+Author: sreenu <areenuanumandla@gmail.com>
+Date:   Mon Oct 3 09:02:31 2022 +0000
+
+    vi file
+
+[33mcommit dfa91ae6b8eeed64c0804f8a1cd9d75754478350[m
+Author: sreenu <root@ip-172-31-41-174.ap-south-1.compute.internal>
+Date:   Mon Oct 3 08:56:27 2022 +0000
+
+    veeru
+
+[33mcommit b34d60dde9a0afecccf98147ccac3a40855ee8e1[m
+Author: sreenu <root@ip-172-31-41-174.ap-south-1.compute.internal>
+Date:   Mon Oct 3 08:53:42 2022 +0000
+
+    sreeeee
+
+[33mcommit 39d24ffa4589f6528b446f621ed073952803a43e[m
+Author: sreenu <root@ip-172-31-41-174.ap-south-1.compute.internal>
+Date:   Mon Oct 3 08:51:48 2022 +0000
+
+    sreenu touch files
+
+[33mcommit 069347844d8eeb1097780ce5e3a8d6844ac4a1b0[m
+Author: sreenu <root@ip-172-31-41-174.ap-south-1.compute.internal>
+Date:   Wed Sep 28 05:45:22 2022 +0000
+
+    deete sai file
+
+[33mcommit f653f6a08b4ffa6ce9777096b3df6c78e9124b8d[m
+Author: sreenu <root@ip-172-31-41-174.ap-south-1.compute.internal>
+Date:   Wed Sep 28 05:43:01 2022 +0000
+
+    sai
+
+[33mcommit aed66ee229b69424a96de57468cc1861a4dab591[m
+Author: sreenu <root@ip-172-31-41-174.ap-south-1.compute.internal>
+Date:   Wed Sep 28 05:39:50 2022 +0000
+
+    :Revert "sreenu"  "ignore my sreenu file"
+    
+    This reverts commit 4002180406496389d7663f53bf185916d9336ecf.
+
+[33mcommit 4002180406496389d7663f53bf185916d9336ecf[m
+Author: sreenu <root@ip-172-31-41-174.ap-south-1.compute.internal>
+Date:   Wed Sep 28 05:32:14 2022 +0000
+
+    sreenu
+
+[33mcommit e075779b074b7625c402f38831c3a926c93f138e[m
+Author: sreenu <root@ip-172-31-41-174.ap-south-1.compute.internal>
+Date:   Wed Sep 28 05:28:23 2022 +0000
+
+    o change msg
+
+[33mcommit 2f6b307f1ee40238cda29b6e6bf1d2c9a5d8e043[m
+Merge: ca1c1c5 dc9edff
+Author: sreenu <root@ip-172-31-41-174.ap-south-1.compute.internal>
+Date:   Wed Sep 28 04:46:34 2022 +0000
+
+    fixed conflict
+
+[33mcommit ca1c1c548bf1baaa40f065af7a07c5d1ee6ccc15[m
+Author: sreenu <root@ip-172-31-41-174.ap-south-1.compute.internal>
+Date:   Wed Sep 28 04:44:23 2022 +0000
+
+    naveen msg from main branch
+
+[33mcommit dc9edff081728b04c41912e43aa8885c517f102e[m[33m ([m[1;32mnew[m[33m)[m
+Author: sreenu <root@ip-172-31-41-174.ap-south-1.compute.internal>
+Date:   Wed Sep 28 04:42:38 2022 +0000
+
+    naveen msg
+
+[33mcommit 67e2b813311772b58f48f8ac58e50464c3c2c654[m
+Author: sreenu <root@ip-172-31-41-174.ap-south-1.compute.internal>
+Date:   Wed Sep 28 04:35:40 2022 +0000
+
+    sree first msg
